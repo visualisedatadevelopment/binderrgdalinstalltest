@@ -1,1 +1,1 @@
-install.packages('rgdal',repos='https://cran.rstudio.com',configure.args=c('--with-gdal-config=/opt/conda/bin/gdal-config', '--with-proj-include=/opt/conda/include','--with-proj-lib=/opt/conda/lib','--with-proj-share=/opt/conda/share/proj/'))
+install.packages('rgdal')
