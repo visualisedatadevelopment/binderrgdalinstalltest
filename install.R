@@ -1,1 +1,1 @@
-install.packages('rgdal', type = 'binary')
+install.packages('rgdal')
