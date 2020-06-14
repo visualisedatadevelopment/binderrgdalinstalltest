@@ -5,6 +5,6 @@ dependencies:
   - python=3.7
   - gdal
 channels:
-  - conda-forge/label/broken:
+  - conda-forge/label/broken
 dependencies:
   - pyproj
