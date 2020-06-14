@@ -1,10 +1,7 @@
 name: binderrgdalinstalltest
 channels:
-  - conda-forge
+  - conda-forge/label/broken
 dependencies:
   - python=3.7
   - gdal
-channels:
-  - conda-forge/label/broken
-dependencies:
   - pyproj
