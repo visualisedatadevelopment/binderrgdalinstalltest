@@ -2,3 +2,4 @@ dependencies:
   - python
   - numpy
   - gdal
+  - proj
