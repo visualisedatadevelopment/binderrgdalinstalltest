@@ -1,1 +1,1 @@
-export PKG_CONFIG_PATH="/opt/software/lib/pkgconfig"
+PKG_CONFIG_PATH="/opt/software/lib/pkgconfig"
