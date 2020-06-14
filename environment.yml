@@ -1,21 +1,7 @@
-name: geopython-workshop
+name: binderrgdalinstalltest
 channels:
   - conda-forge
 dependencies:
   - python=3.7
   - pyproj
-  - shapely
   - gdal
-  - fiona
-  - rasterio
-  - geopandas
-  - descartes
-  - pygeometa
-  - folium
-  - owslib
-  - bokeh
-  - ipyleaflet
-  - matplotlib
-  - pip
-  - pip:
-    - pandas-bokeh
