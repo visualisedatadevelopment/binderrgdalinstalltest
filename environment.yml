@@ -1,7 +1,21 @@
+name: geopython-workshop
+channels:
+  - conda-forge
 dependencies:
-  - python
-  - numpy
+  - python=3.7
+  - pyproj
+  - shapely
   - gdal
+  - fiona
+  - rasterio
+  - geopandas
+  - descartes
+  - pygeometa
+  - folium
+  - owslib
+  - bokeh
+  - ipyleaflet
+  - matplotlib
   - pip
   - pip:
-    - pyproj
+    - pandas-bokeh
