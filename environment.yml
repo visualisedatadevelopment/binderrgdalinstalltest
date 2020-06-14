@@ -1,1 +1,4 @@
-gdal
+dependencies:
+  - python
+  - numpy
+  - gdal
